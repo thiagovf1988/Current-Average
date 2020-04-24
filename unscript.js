@@ -42,6 +42,7 @@ button.addEventListener("click", function () {
         input.value = "";
         console.log("prev1 - " + prev1);
         console.log("prev2 - " + prev2);
+        console.log("prev3 - " + prev3);
         console.log("new - " + newav);
 
     }
