@@ -54,5 +54,6 @@ button2.addEventListener("click", function () {
     list2.value = null
     prev1 = 0
     prev2 = 0
+    prev3 = 0
 
 })
