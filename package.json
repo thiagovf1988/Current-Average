@@ -1,0 +1,22 @@
+{
+  "name": "the-adversary",
+  "version": "1.0.0",
+  "description": "web-start-2020",
+  "main": "unscript.js",
+  "scripts": {
+    "build": "browserify unscript.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagovf1988/the-adversary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagovf1988/the-adversary/issues"
+  },
+  "homepage": "https://github.com/thiagovf1988/the-adversary#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
