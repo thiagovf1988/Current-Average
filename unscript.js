@@ -1,7 +1,3 @@
-if (4 + 3 === 7) {
-  alert("oi chu");
-  console.log("aqui tbm chu");
-}
 
 var _ = require('lodash');
 console.log(_);
